@@ -32,6 +32,7 @@ Dark | Light
 ![Fract-ol Dark](./dark/fract-ol_dark.svg) | ![Fract-ol Light](./light/fract-ol_light.svg)
 ![Minitalk Dark](./dark/minitalk_dark.svg) | ![Minitalk Light](./light/minitalk_light.svg)
 ![Pipex Dark](./dark/pipex_dark.svg) | ![Pipex Light](./light/pipex_light.svg)
+![Push_swap Dark](./dark/push_swap_dark.svg) | ![Push_swap Light](./light/push_swap_light.svg)
 
 ## Support the project using our badge!
 Use our badge in your project, download the image below and add it to your README.md!
