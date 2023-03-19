@@ -35,6 +35,7 @@ Dark | Light
 ![Cub3d Dark](./dark/cub3d_dark.svg) | ![Cub3d Light](./light/cub3d_light.svg)
 ![MiniRT Dark](./dark/minirt_dark.svg) | ![MiniRT Light](./light/minirt_light.svg)
 ![CPP Dark](./dark/cpp_dark.svg) | ![CPP Light](./light/cpp_light.svg)
+![inception Dark](./dark/inception_dark.svg) | ![inception Light](./light/inception_light.svg)
 ![Webserv Dark](./dark/webserv_dark.svg) | ![Webserv Light](./light/webserv_light.svg)
 ![ft_irc Dark](./dark/ft_irc_dark.svg) | ![ft_irc Light](./light/ft_irc_light.svg)
 ![ft_transcendence Dark](./dark/ft_transcendence_dark.svg) | ![ft_transcendence Light](./light/ft_transcendence_light.svg)
