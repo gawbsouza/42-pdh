@@ -36,6 +36,7 @@ Dark | Light
 ![MiniRT Dark](./dark/minirt_dark.svg) | ![MiniRT Light](./light/minirt_light.svg)
 ![CPP Dark](./dark/cpp_dark.svg) | ![CPP Light](./light/cpp_light.svg)
 ![Webserv Dark](./dark/webserv_dark.svg) | ![Webserv Light](./light/webserv_light.svg)
+![ft_irc Dark](./dark/ft_irc_dark.svg) | ![ft_irc Light](./light/ft_irc_light.svg)
 
 ## Apoie o projeto utilizando nossa badge!
 Utilize nossa badge em seu projeto, baixe a imagem abaixo e adicione em seu README.md!
