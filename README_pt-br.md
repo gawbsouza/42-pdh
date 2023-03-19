@@ -34,6 +34,7 @@ Dark | Light
 ![NetPractice Dark](./dark/netpractice_dark.svg) | ![NetPractice Light](./light/netpractice_light.svg)
 ![Cub3d Dark](./dark/cub3d_dark.svg) | ![Cub3d Light](./light/cub3d_light.svg)
 ![MiniRT Dark](./dark/minirt_dark.svg) | ![MiniRT Light](./light/minirt_light.svg)
+![CPP Dark](./dark/cpp_dark.svg) | ![CPP Light](./light/cpp_light.svg)
 
 ## Apoie o projeto utilizando nossa badge!
 Utilize nossa badge em seu projeto, baixe a imagem abaixo e adicione em seu README.md!
