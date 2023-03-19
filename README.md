@@ -39,6 +39,7 @@ Dark | Light
 ![Cub3d Dark](./dark/cub3d_dark.svg) | ![Cub3d Light](./light/cub3d_light.svg)
 ![MiniRT Dark](./dark/minirt_dark.svg) | ![MiniRT Light](./light/minirt_light.svg)
 ![CPP Dark](./dark/cpp_dark.svg) | ![CPP Light](./light/cpp_light.svg)
+![Webserv Dark](./dark/webserv_dark.svg) | ![Webserv Light](./light/webserv_light.svg)
 
 ## Support the project using our badge!
 Use our badge in your project, download the image below and add it to your README.md!
