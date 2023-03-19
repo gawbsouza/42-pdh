@@ -30,6 +30,7 @@ Dark | Light
 ![So_long Header Dark](./dark/so_long_dark.svg) | ![So_long Header Light](./light/so_long_light.svg)
 ![FdF Header Dark](./dark/fdf_dark.svg) | ![FdF Header Light](./light/fdf_light.svg)
 ![Fract-ol Dark](./dark/fract-ol_dark.svg) | ![Fract-ol Light](./light/fract-ol_light.svg)
+![Minitalk Dark](./dark/minitalk_dark.svg) | ![Minitalk Light](./light/minitalk_light.svg)
 
 ## Support the project using our badge!
 Use our badge in your project, download the image below and add it to your README.md!
