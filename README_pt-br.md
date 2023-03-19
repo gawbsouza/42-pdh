@@ -22,6 +22,7 @@ Dark | Light
 -- | --
 ![Libft Header Dark](./dark/libft_dark.svg) | ![Libft Header Light](./light/libft_light.svg)
 ![GNL Header Dark](./dark/gnl_dark.svg) | ![GNL Header Light](./light/gnl_light.svg)
+![ft_printf Header Dark](./dark/ft_printf_dark.svg) | ![ft_printf Header Light](./light/ft_printf_light.svg)
 
 ## Apoie o projeto utilizando nossa badge!
 Utilize nossa badge em seu projeto, baixe a imagem abaixo e adicione em seu README.md!
