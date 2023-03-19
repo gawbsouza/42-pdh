@@ -2,11 +2,12 @@
 
 ![42 PDH Cover](42pdh_cover.gif)
 
-</div>
 
 [Leia a versão PT-BR](README_pt-br.md)
 
 ![42PDH Badge](./badge/42pdh_badge.svg)
+
+</div>
 
 ## About the 42 PDH 
 The 42 PDH (42 Documentation Header) is a simple collection of images containing the name of 42 projects to be used as a header in the documentation of 42 projects.
