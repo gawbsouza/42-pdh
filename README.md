@@ -24,6 +24,7 @@ Below is a list of all available headers:
 Dark | Light
 -- | --
 ![Libft Header Dark](./dark/libft_dark.svg) | ![Libft Header Light](./light/libft_light.svg)
+![GNL Header Dark](./dark/gnl_dark.svg) | ![GNL Header Light](./light/gnl_light.svg)
 
 ## Support the project using our badge!
 Use our badge in your project, download the image below and add it to your README.md!
