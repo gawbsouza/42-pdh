@@ -27,6 +27,7 @@ Dark | Light
 ![GNL Header Dark](./dark/gnl_dark.svg) | ![GNL Header Light](./light/gnl_light.svg)
 ![ft_printf Header Dark](./dark/ft_printf_dark.svg) | ![ft_printf Header Light](./light/ft_printf_light.svg)
 ![Born2BeRoot Header Dark](./dark/born2beroot_dark.svg) | ![Born2BeRoot Header Light](./light/born2beroot_light.svg)
+![So_long Header Dark](./dark/so_long_dark.svg) | ![So_long Header Light](./light/so_long_light.svg)
 
 ## Support the project using our badge!
 Use our badge in your project, download the image below and add it to your README.md!
