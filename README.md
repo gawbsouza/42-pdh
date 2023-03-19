@@ -37,6 +37,7 @@ Dark | Light
 ![Philosophers Dark](./dark/philosophers_dark.svg) | ![Philosophers Light](./light/philosophers_light.svg)
 ![NetPractice Dark](./dark/netpractice_dark.svg) | ![NetPractice Light](./light/netpractice_light.svg)
 ![Cub3d Dark](./dark/cub3d_dark.svg) | ![Cub3d Light](./light/cub3d_light.svg)
+![MiniRT Dark](./dark/minirt_dark.svg) | ![MiniRT Light](./light/minirt_light.svg)
 
 ## Support the project using our badge!
 Use our badge in your project, download the image below and add it to your README.md!
