@@ -25,10 +25,10 @@ Dark | Light
 -- | --
 ![Libft Header Dark](./dark/libft_dark.svg) | ![Libft Header Light](./light/libft_light.svg)
 
-# Support the project using our badge!
+## Support the project using our badge!
 Use our badge in your project, download the image below and add it to your README.md!
 
 ![42PDH Badge](./badge/42pdh_badge.svg)
 
-# License
+## License
 The project is under license [MIT](https://opensource.org/license/mit).
