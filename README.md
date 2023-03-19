@@ -41,6 +41,7 @@ Dark | Light
 ![CPP Dark](./dark/cpp_dark.svg) | ![CPP Light](./light/cpp_light.svg)
 ![Webserv Dark](./dark/webserv_dark.svg) | ![Webserv Light](./light/webserv_light.svg)
 ![ft_irc Dark](./dark/ft_irc_dark.svg) | ![ft_irc Light](./light/ft_irc_light.svg)
+![ft_transcendence Dark](./dark/ft_transcendence_dark.svg) | ![ft_transcendence Light](./light/ft_transcendence_light.svg)
 
 ## Support the project using our badge!
 Use our badge in your project, download the image below and add it to your README.md!
