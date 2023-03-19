@@ -26,6 +26,7 @@ Dark | Light
 ![Born2BeRoot Header Dark](./dark/born2beroot_dark.svg) | ![Born2BeRoot Header Light](./light/born2beroot_light.svg)
 ![So_long Header Dark](./dark/so_long_dark.svg) | ![So_long Header Light](./light/so_long_light.svg)
 ![FdF Header Dark](./dark/fdf_dark.svg) | ![FdF Header Light](./light/fdf_light.svg)
+![Fract-ol Dark](./dark/fract-ol_dark.svg) | ![Fract-ol Light](./light/fract-ol_light.svg)
 
 ## Apoie o projeto utilizando nossa badge!
 Utilize nossa badge em seu projeto, baixe a imagem abaixo e adicione em seu README.md!
