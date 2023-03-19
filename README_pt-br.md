@@ -31,6 +31,7 @@ Dark | Light
 ![Pipex Dark](./dark/pipex_dark.svg) | ![Pipex Light](./light/pipex_light.svg)
 ![Push_swap Dark](./dark/push_swap_dark.svg) | ![Push_swap Light](./light/push_swap_light.svg)
 ![Philosophers Dark](./dark/philosophers_dark.svg) | ![Philosophers Light](./light/philosophers_light.svg)
+![NetPractice Dark](./dark/netpractice_dark.svg) | ![NetPractice Light](./light/netpractice_light.svg)
 
 ## Apoie o projeto utilizando nossa badge!
 Utilize nossa badge em seu projeto, baixe a imagem abaixo e adicione em seu README.md!

@@ -35,6 +35,7 @@ Dark | Light
 ![Push_swap Dark](./dark/push_swap_dark.svg) | ![Push_swap Light](./light/push_swap_light.svg)
 ![Minishell Dark](./dark/minishell_dark.svg) | ![Minishell Light](./light/minishell_light.svg)
 ![Philosophers Dark](./dark/philosophers_dark.svg) | ![Philosophers Light](./light/philosophers_light.svg)
+![NetPractice Dark](./dark/netpractice_dark.svg) | ![NetPractice Light](./light/netpractice_light.svg)
 
 ## Support the project using our badge!
 Use our badge in your project, download the image below and add it to your README.md!
