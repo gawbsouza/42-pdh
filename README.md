@@ -10,7 +10,7 @@
 </div>
 
 ## About the 42 PDH 
-The 42 PDH (42 Documentation Header) is a simple collection of images containing the name of 42 projects to be used as a header in the documentation of 42 projects.
+The 42 PDH (42 Project Documentation Header) is a simple collection of images containing the name of 42 projects to be used as a header in the documentation of 42 projects.
 
 ## How to use
 It's very simple, just download the image of the project you want to use the header in and add the image to your README.md (with a link).
@@ -38,4 +38,4 @@ Use our badge in your project, download the image below and add it to your READM
 ![42PDH Badge](./badge/42pdh_badge.svg)
 
 ## License
-The project is under license [MIT](https://opensource.org/license/mit).
+The project is under [MIT](https://opensource.org/license/mit) license.

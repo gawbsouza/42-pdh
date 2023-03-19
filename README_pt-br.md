@@ -7,7 +7,7 @@
 </div>
 
 ## Sobre o 42 PDH 
-O 42 PDH (42 Documentation Header) é uma simples coleção de imagens contendo o nome dos projetos da 42 para serem usados como cabeçalho na documentação dos projetos da 42.
+O 42 PDH (42 Project Documentation Header) é uma simples coleção de imagens contendo o nome dos projetos da 42 para serem usados como cabeçalho na documentação dos projetos da 42.
 
 ## Como utilizar?
 É bem simples, basta baixar a imagem do projeto em que queira utilizar o header e adicionar a imagem ao seu README.md (com um link).
