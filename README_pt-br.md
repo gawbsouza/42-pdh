@@ -12,6 +12,9 @@ O 42 PDH (42 Project Documentation Header) é uma simples coleção de imagens c
 ## Como utilizar?
 É bem simples, basta baixar a imagem do projeto em que queira utilizar o header e adicionar a imagem ao seu README.md (com um link).
 
+## Exemplo
+Você consegue ver um exemplo aqui no readme da [minha libft](https://github.com/gawbsouza/42-libft) 🤠.
+
 ## Variações
 Cada header contém uma versão com tema claro e uma versão com tema escuro, fique a vontate para escolher o que preferir!
 
